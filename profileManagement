@@ -1,1 +1,8 @@
 
+spring.application.name=profile-service
+server.port=9082
+
+
+spring.datasource.url=jdbc:mysql://localhost:3306/profile_manager
+spring.datasource.name=root
+spring.datasource.password=root
